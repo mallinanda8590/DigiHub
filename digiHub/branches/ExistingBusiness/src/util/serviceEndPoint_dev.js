@@ -1,0 +1,37 @@
+export const serviceEndPoint = {
+    roleServiceEndPoint:"http://playground.tatastrive.com/services-v1/role",
+    userProfileServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/users",
+    enrollmentServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/enroll",
+    educationServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/education",
+    familyServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/family",
+    experienceServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/experience",
+    observationServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/observationservice",
+    engagementServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/engagement",
+    addressServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/address",
+    stateServiceEndPoint:"http://playground.tatastrive.com/services-v1/stateservice",
+    cityVillageServiceEndPoint:"http://playground.tatastrive.com/services-v1/cityvillageservice",
+    batchDetailsServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/batchdetails",
+  //  engagementServiceEndPoint:"http://playground.tatastrive.com/sservices-v1/engagement",
+    documentServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/documents",
+    salutationServiceEndPoint:"http://playground.tatastrive.com/services-v1/salutationservice",
+    genderServiceEndPoint:"http://playground.tatastrive.com/services-v1/genderservice",
+    courseServiceEndPoint:"http://playground.tatastrive.com/services-v1/courseservice",
+    interestinventoryServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/interestInventory",
+    saveIIServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/saveInterestInventoryDocument",
+    centerServiceEndPoint:"http://playground.tatastrive.com/services-v1/centerservice",
+    counsellingServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/counselling",
+    studentServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/student",
+    evaluationServiceEndPoint:"http://playground.tatastrive.com/ssservices-v1/sservices-v1/evaluation",
+    qualificationServiceEndPoint:"http://playground.tatastrive.com/services-v1/qualificationservice",
+    categoryServiceEndPoint:"http://playground.tatastrive.com/services-v1/categoryservice",
+    mobchannelServiceEndPoint:"http://playground.tatastrive.com/services-v1/mobchannelservice",
+    religionServiceEndPoint:"http://playground.tatastrive.com/services-v1/religionservice",
+    businessCaseEndPoint: "http://playground.tatastrive.com/ssservices-v1/sservices-v1/businesscase",
+    knackServiceEndPoint : "http://playground.tatastrive.com/ssservices-v1/sservices-v1/knack",
+    uploadServiceEndPoint : "http://playground.tatastrive.com/ssservices-v1/sservices-v1/uploadFile",
+    loginService : "http://playground.tatastrive.com/ssservices-v1/login",
+    businessCaseBriefMdmService : "http://playground.tatastrive.com/services-v1/bibservice"
+  
+    
+        
+};
